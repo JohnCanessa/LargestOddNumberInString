@@ -10,7 +10,7 @@ in the specified `num` string.
 If integersted in my comments and approach, I invite you to read
 the following post in my blog:
 
-Largest Odd Number in String
+https://www.johncanessa.com/2021/06/30/largest-odd-number-in-string/
 
 Keep in mind that one of the best ways to learn is to read and experiment.
 Remember that practice makes perfect.
